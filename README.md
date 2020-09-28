@@ -1,2 +1,2 @@
-# PracC-
+# Prac
 Some small practice 
